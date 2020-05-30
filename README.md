@@ -14,3 +14,5 @@ https://github.com/kingmsn2030/Android-Islamic-Guide-Amazing
 
 
 https://play.google.com/store/apps/developer?id=Android+Prof
+
+If you want to contribute just send mail to android.great@gmail.com with the details
