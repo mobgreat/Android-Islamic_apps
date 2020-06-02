@@ -9,7 +9,9 @@ Android Islamic apps
 https://github.com/mobgreat/Android-Islamic_apps
 
 https://github.com/applegreat/Android-Islamic_Guide_Apps
+
 https://github.com/assistancegreat/Android-Islamic-Guide_Translate
+
 https://github.com/kingmsn2030/Android-Islamic-Guide-Amazing
 
 https://github.com/profdrbasha/Android-Islamic-Guide-Translate
