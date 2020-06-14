@@ -22,5 +22,7 @@ https://facebook.com/mp30quran
 
 https://facebook.com/androidprofessionals
 
+https://github.com/mobgreat/Islamic-android-apks
+
 
 If you want to contribute just send mail to android.great@gmail.com with the details
